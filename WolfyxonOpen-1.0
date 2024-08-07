@@ -1,0 +1,48 @@
+--== Wolfyxon Open License 1.0 ==--
+
+Copyright (C) Wolfyxon 2024-present
+
+Distribution and usage of this document 
+is freely allowed, but editing is not allowed.
+
+This license aims to protect the property
+of the developer, while ensuring the freedom
+of the users.
+
+- CONDITIONS -
+1. Attribution
+	If this license applies to a library, the project
+	using it must give proper attribution
+	to the developer of this library and state the source of it.
+	If you forked this project, you may state yourself
+	as the main developer, but you must clearly state
+	who is the original developer.
+2. Openness
+	Access to this software must not be limited
+	in a way that benefits financially any developer. 
+	You may not restrict access to any parts
+	of this software (inclduing the source code) behind a payment
+	or the requirement to watch ads.
+	If this license applies to a library, the software using that
+	library may get financial benefits from other parts of itself
+	or the software as a whole may cost money, but access to the features
+	of this library may not be restricted by payment or watching ads.
+3. Same license
+	When forking this project, you must not use a different license than
+	this one. If you are using this software as a library however,
+	you may use any license, as long as all other conditions are met.
+
+- Can this be used commercially? -
+To ensure the freedom, you may not require payment or watching ads for
+the distribution of this project's binaries or source code.
+You may include this software in paid projects, but not restrict
+access to the software this license applies to. Refer to condition [3].
+
+- Is there a warranty? -
+THIS SOFTWARE IS OFFERED AS-IS AND IS NOT A SUBJECT OF ANY WARRANTIES.
+THE DEVELOPER IS NOT LIABLE FOR ANY DAMAGE CAUSED BY THIS SOFTWARE, ESPECIALLY
+CARELESS USE.
+
+
+
+
